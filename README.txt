@@ -7,3 +7,6 @@
 
 2014年4月18日　１３時３４分
 ・v0.0.1_D_A Make Changes
+
+2014年4月18日　１４時４８分
+・B Make Changes
